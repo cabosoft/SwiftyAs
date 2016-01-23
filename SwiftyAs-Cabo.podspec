@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name      = 'SwiftyAs'
+  s.name      = 'SwiftyAs-Cabo'
   s.ios.deployment_target = "6.0"
   s.osx.deployment_target = "10.8"
   s.watchos.deployment_target = '2.0'
